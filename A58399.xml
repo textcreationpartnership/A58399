@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reformed papist, or high-church-man. Characterized in reflections on his principles and designs.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58399</idno>
+            <idno type="STC">Wing R746</idno>
+            <idno type="STC">ESTC R222741</idno>
+            <idno type="EEBO-CITATION">99833880</idno>
+            <idno type="PROQUEST">99833880</idno>
+            <idno type="VID">38358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38358)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1785:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reformed papist, or high-church-man. Characterized in reflections on his principles and designs.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Blackborne,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:38358:1"/>
+            <pb n="1" facs="tcp:38358:1" rendition="simple:additions"/>
+            <head>THE <hi>Reformed Papiſt,</hi> OR High-Church-Man. Characterized in Reflections on his Prin<g ref="char:EOLhyphen"/>ciples and Deſigns.</head>
+            <p>IT is an old Charge managed againſt many of the Church of <hi>England,</hi> and has lately been revived; namely, that either they are down-right Papiſts in their Hearts, and would not only be glad of, but help forward the intro<g ref="char:EOLhyphen"/>duction of the Romiſh Religion, or elſe are poſſeſt of ſuch Principles and Opinions, as touch very near upon the Popiſh Doctrines, being differenced from them but by a very ſlight diſtinction, and therefore are previouſly diſpoſed and prepared for an eaſie Reception of that ſuperſtition, whenever opportunity ſhall be offered of ſo doing: How far this aſſertion may be proved, and againſt whom, and on what grounds, is the buſineſs and enquiry of this Paper.</p>
+            <p>The very Conſtitutions of the Church it ſelf in its Offices, Ceremonies and ap<g ref="char:EOLhyphen"/>pointments have not ſcaped ſome Mens cenſure, as being too groſs Reliques of and Borderers on the Romiſh Superſtition, but in my Opinion that Accuſati<g ref="char:EOLhyphen"/>on flies too high, and in endeavouring to prove too much, fails of its end, and proves juſt nothing at all, ſuch an Attempt was that of—a <hi>Sancta Clara's</hi> in the time of Arch-Biſhop <hi>Laud,</hi> who upon what encouragement I will not ſuggeſt, wrote a Book to ſhew how how the Articles and Doctrines of the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> might with a very little favour and candid conſtruction be reconciled to the meaning and intention of the <hi>Roman-Catholick,</hi> that for the moſt part they did only differ <hi>in forma &amp; modo loquendi,</hi> in the Phraſe and manner of Speech, but in ſubſtance were the ſame, and ſo a fair way to an Accommodation and Union between Us and the <hi>Romaniſts</hi> was opened, which undertaking however abſurd and impoſſible, (ſince neither the <hi>Publick</hi> Conſtitution nor Doctrines of our <hi>Church</hi> can be proved to be <hi>Popiſh,</hi> whatever either Diſſenters or Recuſants may wiſh or pretend.) Yet ſome Tranſactions of thoſe times, as the particu<g ref="char:EOLhyphen"/>lar favour ſhewn to <hi>Romiſh</hi> Prieſts: the correſpondence held with the Eminent Perſons of the <hi>Roman</hi> Church and Court, do give juſt cauſe to ſuſpect, that ſince the <hi>Romiſh</hi> Church cannot advance ſo much as one ſtep towards an Union with us, nor depart from the leaſt tittle of her pre<g ref="char:EOLhyphen"/>tenſions in Spirituals; ſome leading Men among us might be glad to ſtrain as far as they could, and gladly ſtand by and ſee themſelves proved good <hi>Roman-Chatholicks</hi> in thoſe very Tenets and Doctrines, which were deſigned to be the Marks and Characters of true Proteſtants. But that Task being too intricate for the greateſt ſubtilty to compaſs, it was impoſſible to effect this reconcilement without a nearer approach to <hi>Rome;</hi> and therefore we find ſome Opinions ſtart<g ref="char:EOLhyphen"/>ed in thoſe times, and ſince owned by ſeveral Men in ours, as bid very fair for this Union, could theſe ſcurvy <hi>Romaniſts</hi> advance but one pace towards it, and not leave us wholely to the diſgrace of yielding. 'Tis not, I confeſs, criminal to endeavour an Union with <hi>Rome,</hi> if they can be brought to renounce their cor<g ref="char:EOLhyphen"/>ruptions, neither do I believe it to have been the intent of any of our Prelates to
+<pb n="2" facs="tcp:38358:2" rendition="simple:additions"/>condeſcend to all the <hi>Romiſh</hi> Superſtitions without diſtinction or exception; but fancied that a bare formal external Union, though there were no ſubſtantial agreement in Doctrinal points, would be of ſuch great advantage and profit to the Church, that it would be worth the while to ſhuffle up all Queſtions and Diſputes, to give the <hi>Romiſh</hi>-Opinions the faireſt conſtruction, and their own what poſſible Latitude they could, ſo to cloſe up the breaches between us by lightly skinning over the ſores of that Church with a ſuperficial gloſs, and kind Interpretation, meerly to avoid the miſchief and uncharitableneſs of a Schiſm, and in hopes they might ſome time or other hereafter, when the heat of Diſpute was allayed reform themſelves. Now they who ever entertained this project, or have been Diſciples of thoſe by adhering to their Principles commonly paſs by the name of <hi>High-Church-Men;</hi> that is, Perſons principled in Religion above the ordinary Standard, Moderation or currant Opinions, but aſſerting higher and ſtranger Doctrines then are either of common uſe, or within the reach of ordi<g ref="char:EOLhyphen"/>nary capacities and proſpect.</p>
+            <p>A Gentleman who has long owned himſelf ſuch an one, and I queſtion not is proud of the character has lately publiſhed another Notion of the term <hi>High-Church-Man;</hi> and that is, <hi>a Reformed Papiſt,</hi> an expreſſion I believe he repents of by this time becauſe of its great abſurdity: For the Word <hi>Papiſt,</hi> ſo plainly imports one who owns the <hi>Pope</hi>'s Supremacy, infallibility and conſequently whatever he Doctrinally teaches, that he who is ſo far reformed as to deny thoſe, (as every true Proteſtant is) immediately ceaſes to be a <hi>Papiſt,</hi> which is a denomination inconſiſtent with ſuch a Reformation: <hi>Reformed-Catholick,</hi> indeed I have heard of, and Logicians uſually diſtinguiſh things under the ſame <hi>Summum genus,</hi> or general Head by a ſpecifical difference, as they call it; and never conjoyn thoſe differences ſo as to hope that one ſhould limit the ſignification of the other, which it totally takes away and deſtroys: So we ſay not a <hi>Rational Beaſt,</hi> when we would expreſs a <hi>Man,</hi> but a <hi>Rational Creature</hi> or <hi>Animal;</hi> which word being common to both <hi>Man</hi> and <hi>Beaſt,</hi> (as <hi>Catholick</hi> is to <hi>Proteſtant</hi> and <hi>Papiſt</hi>) is ap<g ref="char:EOLhyphen"/>plicable to either, but to apply that difference of Reformed (which is made uſe of to diſtinguiſh a <hi>Proteſtant</hi> from a <hi>Papiſt</hi>) to a <hi>Papiſt</hi> from whom the <hi>Proteſtant</hi> is diſtinguiſhed by this very defference, ſo as to ſay a <hi>Proteſtant</hi> is a <hi>Reformed Papiſt,</hi> (which terms immediately deny one another) is as abſurd as to ſay a Man is a <hi>Rational Beaſt,</hi> or a Beaſt an <hi>Irrational Man:</hi> but enough of this; it was a ventureſome expreſſion of his, by which he thought he would propoſe a Para<g ref="char:EOLhyphen"/>dox to people and a muſe the Vulgar (which He takes great pleaſure in doing) in the mean while laughing to himſelf as being ſecure of a handſom Expoſition whereby to come off creditably with Schollars who underſtand the <hi>Arcana</hi> and Labyrinths of Speech: However I ſhall take this advantage of his expreſſion, to ſhew how too near being a <hi>Papiſt,</hi> and too little reformed he is; who as an <hi>High-Church:Man,</hi> (in which quality he has always beeen reputed,) does either in his own judgment, or elſe implicitly in complaiſance to other embrace ſuch Opinions as want a ſecond Reformation.</p>
+            <p n="1">1. The true <hi>Proteſtant</hi> reſolves his Faith into the Authority of the Scriptures as baring Teſtimony to its ſelf to be Gods word by the evident marks of Gods Holy Spirit which are there viſible to every Reader, Together with the additio<g ref="char:EOLhyphen"/>nal proofs of the ordinary Grace, aſſiſtance and enlightning God affords to him who ſeriouſly attends to it, and the miraculods derivation of it down to us at ſo great a diſtance of time from its firſt promulgation, and the general acceptation it has received as ſuch from a great part of Mankind, and therefore the Moral impoſſibility it ſhould be fictitious, having ſo great an Authority of Hiſtory to vouch it as that is: to be plain; the true <hi>Proteſtant</hi> gives this reaſon, why he is a Chriſtian, becauſe God's word the Scripture inſtructs him ſo to be, and he believes the Scriptures to be God's word, becauſe it appears by its Heavenly Doctrine to be ſo, becauſe his conſcience and ſpirit are ſtrangely convinced that it is ſo by a particular light God has aſſiſted his reaſoning withal in the reading it, becaue the
+<pb n="3" facs="tcp:38358:2"/>Doctrine it contains, though contrary to Fleſh and Blood has moſt ſtrangely overcome all the difficulties which both They and the Devil put in its way, and has been propagated down through all Ages over the face of the whole Earth; the Hiſtory of all times baring witneſs to its Doctrine to have been then what we ſee it now; and this is the ſure and only Baſis and Foundation the Chriſtian has to reſt his Fatith on.</p>
+            <p>But now the <hi>High-Church-Man,</hi> tells you that <hi>the Faith of the unlearned cannot rely upon any other Principle then the Authority of their Paſtors expounding to them the ſubſtance of a Chriſtians duty.</hi> Page 100. of the Original of all Plots.</p>
+            <p>The immediate reaſon that you muſt give of the hope that is in you, why you believe and are a Chriſtian, is, becauſe the Church (meaning the Clergy) tells you ſo; and why are the Clergy to be relied on in this caſe; is it only matter of Prudence, becauſe they are the honeſteſt and Larnedeſt Men, or becauſe, whether they are ſo or no, they are inveſted with Authority and Jurisdiction to propoſe to the People what they ought to believe, and theſe are obliged in Conſcience to believe what they propoſe; this is the very reaſon ſays the <hi>High-Church-Man.</hi>
+            </p>
+            <p>
+               <hi>All the Articles of Faith and all the neceſſary rules of Government are ſo clearly decided</hi> (that is, by the Authority of the Church) <hi>that there is no room left for farther doubt about them, did Men but think it their duty to ſubmit to the Churches</hi> (That is the Clergy's) <hi>Authority, as is moſt certain they ought to do,</hi> Page 108. and again; <hi>ſince God has been ſo gracious as to continue likewiſe a conſtant Succeſſion and Authority in his Church for our direction,</hi> (that is, in matters of Faith,) <hi>why ſhould we not pay that duty which we once to it, and make uſe of ſuch remedies as the wiſdom of God has ordained to quiet our diſſentions.</hi> Id pag. 110.</p>
+            <p>Here is plain dealing: God has left <hi>Authority</hi> in the Clergy to direct us in matters of Faith, what we muſt believe, and what we muſt not believe; and why ſhould not we rely on the Clergy's determinations, on this <hi>Judge in Controverſies;</hi> ſo <hi>neceſſary</hi> in the Church for determining Queſtions, (ſays the <hi>Guide in Controverſies</hi>) that God could not in <hi>wiſdom,</hi> but ordain ſuch a ſtanding Oracle for quieting our diſſentions, (ſays the High-Church-Man.) How near a Neighbour this Opinion is to that of the <hi>Papiſts</hi> reſolving their Faith into the Au<g ref="char:EOLhyphen"/>thority of the Church and implicit believing needs no Guide in Controverſie to determine: I only remark, that what he firſt aſſerted cautiouſly to be only the duty and obligation of the <hi>
+                  <g ref="char:V">Ʋ</g>nlearned,</hi> to rely upon the Authority of their Paſtors, he next picks up courage enough to ſay indefinitely, that 'tis moſt certainly <hi>Mens</hi> duty to ſubmit to the Churches Authority, and laſt of all ſticks not to ſay, Why ſhould <hi>We</hi> not pay that duty, <hi>&amp;c.</hi> which Word <hi>We</hi> in<g ref="char:EOLhyphen"/>cluding himſelf, muſt needs now be extended to the Learned themſelves, and lay on them alſo the ſame Obligation as on the meereſt Fools.</p>
+            <p>In the next place, the <hi>High-Church-Man</hi> is not ſo unwiſe as to believe God's <hi>Wiſdom</hi> ſhould oblidge him to ſettle an ordinary Judge in the Church, and engage us to obey that Judge, a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d yet fail him ſo fouly in this, as to leave this Judge in a capacity of Erring, and yet in full Authority to impoſe his Errors; that cannot be: The Judge (that is the Church or Clergy) muſt needs therefore be <hi>infallible:</hi> and this Doctrine of <hi>Infallibility;</hi> I only infer by conſequence, I quote not the <hi>High-Church-Man</hi> for it (though perhaps it were no difficult matter ſo to do) but aſſert it to be the genuine proper and immediate conſequence of the former Principle; and ſo much for <hi>Infallibility.</hi>
+            </p>
+            <p>But now you wonder perhaps what is become of the Scriptures all this while, into which I reſolve my Faith; why, <hi>I ſuppoſe,</hi> (ſays the <hi>High-Church-Man</hi>) <hi>no Man will ſay that the Principle of the Scriptures ſufficiency and perſpicuity does infer, that every Man at what time of his life he pleaſes meerly by reading the Bible, can find out of his own aecord all things neceſſary to Salvation,</hi> id. pag. 100. If he can read it, I queſtion not but he may; if he cannot, he may as well truſt a Lay-Man reading it to him, as a Clergy-Man, or the Teſtimony of all Lay-Men as well as of all the Clergy: but ſays the <hi>High-Church-Man,</hi> I will not ſay abſolutely with the <hi>Papiſt</hi> that the Scriptures are not perſpicuous, nor ſufficient inſtructions to Salvation; but that they are not perſpicuous enough, nor ſufficient to <hi>All Men,</hi> ſo that <hi>Any One</hi> can by reading find out all things neceſſary to Salvation; but this is enough to diſrcedit the Scripture as defective and inſufficient the better to bolſter up the Authority of the Church-Men, and their Traditions.</p>
+            <p>Next, from this laſt Principle, I infer the <hi>needleſneſs of Reading them,</hi> by the moſt ignorant ſort; for if they cannot of their own accord find out all things neceſſary to Salvation, they muſt, truſt the Church-Men for ſome, and if for ſome, they had as good truſt them for all, ſince 'tis alike dangerous to Err in one point neceſſary as in all; and ſo they may e'ne lay by their Bibles.</p>
+            <p>The Church being poſſeſt of ſo ample an Authority in the great Affairs of Religion, and in neceſſary Articles of Faith, it will next be pertinent to inquire, whether the circum<g ref="char:EOLhyphen"/>ſtances of Religion are determinable by any other but it ſelf, and whether the accidental ap<g ref="char:EOLhyphen"/>pendages of forms and manners in <hi>ordine ad Spiritualia;</hi> may be Ordered and Appointed by any other: why no ſayes the High-Church-Man; for <hi>that Modern contrivance of ſome State Flatterers who leave it to the Power of the Civil Magiſtrate to preſcribe the form and manner of
+<pb n="4" facs="tcp:38358:3"/>Church Government, will not be any means to quiet, but the ready way to promote diſſenſions in the Church:</hi> He aſſerts 'tis the ready way to give Birth and Original to a Plot, for the civil Magiſtrate to ſuffer himſelf to be flattered into an Opinion, that he may appoint what Church-Government he pleaſes: that is a thing forſooth without his verg and cognizance; the very form, Model and Pattern of it is <hi>de jure divino</hi> unalterable, and 'tis the ſin of the Holy Ghoſt with the High-Church-Man to diſlike and diſſent from it, much more to put it down and ſet up another: and therefore let not the Prince, ſays he, meddle with what he has nothing to do withal.</p>
+            <p>He indeed blames the Pope for aſſuming a juriſdiction over the Biſhops and Clergy of <hi>all the World,</hi> foraſmuch as he has nothing to do with any thing but what was ſubject to the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Emperour; and therefore for the <hi>Eaſtern</hi>-Church, he thinks the Pope has no power over it: but yet he cannot and will not deny him his due, the <hi>Weſtern</hi> Church, and the <hi>Weſtern</hi> Patriarchate; he owns him for his Canonical and Eccleſiaſtical Superior, and that is an high Character; for Canons are with him as Sacred and inviolable as God's own Laws, being impoſed by ſo Revered an Authority as a Council aſſiſted by the Holy Ghoſt as he be<g ref="char:EOLhyphen"/>lieves: So that to the High Church-Man the Biſhop of <hi>Rome</hi> is, though no more, <hi>Papa Noſtri Orbis,</hi> and we are not at all helped by his diſcharging the <hi>Eaſt</hi> from Obedience to <hi>Rome,</hi> ſince we are Fettered by moſt irrefragable Canons to be ſubject to our <hi>Patriarch.</hi>
+            </p>
+            <p>He is no Enemy to <hi>Auricular Confeſſion,</hi> and between You and I, ſome times hears it; and for <hi>Abſolution,</hi> he is apt to think it to be more then a Declaratory power: for every one may declare to another that his Sins are forgiven him, if he repents; nay the Scriptures tell him ſo, and he may tell himſelf ſo: but he believes ſuch a power of forgiveneſs in the Prieſt; that the Penitents Sins are retained till it be actually pronounced, ſo that it is an ordinarily neceſſary medium and condition of forgiveneſs, though <hi>Crotius</hi> and other Learned Proteſtants admit of no ſuch thing.</p>
+            <p>Perhaps he favours <hi>Corporal puniſhment,</hi> as in its Nature <hi>expiatory of ſin:</hi> I am ſure the Compilers of the Commination Office do imprudently uſe the Word <hi>Penance</hi> thus:</p>
+            <p>
+               <hi>In the Primitive Church—Such Perſons as ſtood Convicted of Notorius Sin were put to open</hi> Penance and puniſhed in this World, <hi>That their Souls might be ſaved in the day of the Lord:</hi>
+            </p>
+            <p>Beſides the ordinary acceptation of the Word <hi>Penance</hi> for <hi>Corporal Puniſhment,</hi> (which if it be put for <hi>Repentance,</hi> not one in an Hundred knows ſo much,) the ſubjoyning theſe words immediately to it, <hi>and puniſhed in this World</hi> makes the place look as if it favoured the Opini<g ref="char:EOLhyphen"/>on of expiating Sin by Temporal puniſhment, eſpecially becauſe the reaſon and end of that puniſhment is immediately Aſſigned thus, <hi>That their Souls may be ſaved in the day of the Lord:</hi> I ſay theſe words are unwarily placed and capable of an evil Interpretation, and who knows what ill uſe an High-Church-Man may make of this hint in order to favouring that <hi>Popiſh</hi> Doctrine, of ſatisfying for Sins by Voluntary Penal infflictions.</p>
+            <p>The <hi>reality of Chriſts Body</hi> being <hi>Spiritually</hi> given and received in the Sacrament of the Euchariſt he openly avows; by the Word <hi>Spiritual</hi> not meaning to take off the reality of his Preſence, but to ſhew the manner of it: So that Chriſt being <hi>really</hi> and <hi>Spiritually</hi> preſent though not <hi>Corporally</hi> comes to thus much; that either Chriſt is preſent there without his Body (which methinks is a little hard, to part him from that) or his <hi>Body</hi> is preſent <hi>Spiri<g ref="char:EOLhyphen"/>tually,</hi> that is, is a <hi>Spirit;</hi> for nothing can be preſent after another manner then is agreea<g ref="char:EOLhyphen"/>ble and ſutiable to its Nature; but ſo is not ſpiritual Preſence to a Body, nor Corporial Preſence to a Spirit: However he will have it ſaid that Chriſt is <hi>really Preſent,</hi> becauſe it helps towards the Union he projects, which he imagines may be founded on <hi>a verbal</hi> and <hi>no<g ref="char:EOLhyphen"/>minal</hi> though not <hi>real</hi> agreement.</p>
+            <p>Laſtly; <hi>He prayes</hi> with all his heart <hi>for the dead;</hi> there are ſeveral inſtances of this in Print, Particularly in Biſhop <hi>Andrews</hi> devotions: and this were it never ſo harmleſs, yet be<g ref="char:EOLhyphen"/>cauſe we have no warrant from Scripture ſo to do, and no knowledge of the middle ſtate of the Dead, is a ſond, affected and ſcandalcus imitation of the <hi>Romaniſts, praying for Souls in Purgatory.</hi>
+            </p>
+            <p>And thus far our <hi>Reformed Papiſt;</hi> for a <hi>Papiſt,</hi> he is not in the groſſeſt Notion; but ſure I am, ſuch extravagant and affected Opinions in ſome Members of our Church, and thoſe who account themſelves Her only true Genuine and Legitimate Sons and Children, gives greater advantage to ſome Men to traduce the Church of <hi>England</hi> as <hi>Popiſhly</hi> inclined, then Her Ceremonies and Service can do: though thoſe Principles once known make ſuch impreſ<g ref="char:EOLhyphen"/>ſion on Mens miunds that they are ever after prone to ſuſpect even the moſt innocent and harmleſs things: and 'tis a thing not altogether impoſſible, that in a Revolution of times and Religions, ſuch Church-Men ſo prepared might eaſily prevail with them ſelves to ſtrain a littl<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> f<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther; for the ſake of <hi>Safety, Profit, Authority and Honour.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Blackborne</hi> 168<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb facs="tcp:38358:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
